@@ -1,0 +1,32 @@
+.bg-yellow{
+  background-color: #f7c04e !important;
+}
+.py-6{
+  padding: 227px 0px;
+}
+.bg-soft-black{
+	background-color: #00000099; 
+}
+body{
+	font-family: 'Open Sans', sans-serif !important;
+	margin-top: -72px;
+}
+.gradient{
+	background: linear-gradient(#ed6670,#f2ad4d);
+}
+.btn-success{
+	background-color: #1db954 !important;
+	border-radius:  50px; 
+}
+.btn-outline-secondary{
+	border-radius:  50px; 
+}
+
+@media (max-width: 992px) {
+	.display-3 {
+		font-size: 35px !important;
+	}
+}
+.bg-dark-footer{
+	background-color: #000000; 
+}
